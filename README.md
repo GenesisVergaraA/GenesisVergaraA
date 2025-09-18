@@ -42,9 +42,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=genesisvergaraa&theme=tokyonight" alt="streak stats" />
-</p>
-<p align="center">
+<img src="https://github-readme-stats-mu-ruddy.vercel.app/api?username=genesisvergaraa&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats-mu-ruddy.vercel.app/api/top-langs/?username=genesisvergaraa&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
